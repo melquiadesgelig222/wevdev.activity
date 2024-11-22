@@ -1,0 +1,73 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: white;
+    transition: background-color 0.3s, color 0.3s;
+    color: black;
+}
+
+.kinaunhan {
+    margin-top: 50px;
+}
+
+button {
+    padding: 15px 30px;
+    margin: 20px;
+    font-size: 18px;
+    cursor: pointer;
+    border: none;
+    border-radius: 5px;
+}
+
+#blueBtn {
+    background-color: #2196F3;
+    color: white;
+}
+
+#pinkBtn {
+    background-color: #e762c6;
+    color: white;
+}
+
+#brownBtn {
+    background-color: #795548;
+    color: white;
+}
+
+.ilhanan {
+    margin-top: 30px;
+}
+
+.waragd {
+    width: 300px;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+
+.Boys {
+    background-color: #2196F3;
+    color: white;
+}
+
+.Boys h1 {
+    color: white;
+}
+
+.Girls {
+    background-color: #e762c6;
+    color: white;
+}
+
+.Girls h1 {
+    color: white;
+}
+
+.old {
+    background-color: #795548;
+    color: white;
+}
+
+.old h1 {
+    color: white;
+}
